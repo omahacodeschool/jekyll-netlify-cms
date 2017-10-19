@@ -1,5 +1,4 @@
 ---
-name: Beth Haubert
+title: Beth
 location: Omaha
-name_slug: beth
 ---

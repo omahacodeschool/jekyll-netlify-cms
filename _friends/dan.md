@@ -1,7 +1,5 @@
 ---
-name: Dan
-name_slug: dan
+title: Dan
 location: Okinawa
-name_slug: dan
 ---
 
